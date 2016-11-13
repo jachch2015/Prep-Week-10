@@ -1,3 +1,5 @@
+#This program rolls a 12 sided dice, if you roll equal or less than 6 you lose else you win.
+
 import random
 roll=random.randint(1,12)
 if roll < 6:
